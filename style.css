@@ -1,5 +1,4 @@
 @import url('./bootstrap/dist/css/bootstrap.min.css');
-@import url('./bootstrap/dist/js/bootstrap.js')
 body{
     background-color: azure;
 }
