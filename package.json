@@ -1,0 +1,25 @@
+{
+  "name": "html-css-project",
+  "version": "1.0.0",
+  "description": "final project of UIB incl css nd html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshinimurali/Project.git"
+  },
+  "keywords": [
+    "html&css"
+  ],
+  "author": "rosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshinimurali/Project/issues"
+  },
+  "homepage": "https://github.com/roshinimurali/Project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
